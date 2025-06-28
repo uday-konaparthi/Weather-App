@@ -1,7 +1,7 @@
 // App.jsx
 import React from "react";
-import { WeatherProvider } from "./context/WeatherContext";
-import InputComponent from "./components/InputComponent";
+import { WeatherProvider } from "./context/weatherContext";
+import InputComponent from "./components/inputComponent";
 import WeatherData from "./components/weatherData";
 import { Cloud } from "lucide-react";
 import WeatherHeader from "./components/weatherHeader";
